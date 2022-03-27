@@ -1,3 +1,2 @@
-Hi, I'm Juan.
-
-I created this repository to add code and illustrations I create, primarily for side projects. 
+## Juan Campanario 
+PhD Student at the University of Pittsburgh | Expected 2023 
