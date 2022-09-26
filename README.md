@@ -1,2 +1,2 @@
 ## Juan Campanario 
-PhD Student at the University of Pittsburgh | Expected 2023 
+PhD Candidate at the University of Pittsburgh | Expected 2023 
